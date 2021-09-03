@@ -1,4 +1,4 @@
-### Hi there my name is Rhaissa Marques👋
+### Hi there, my name is Rhaissa Marques👋
 
 <!--
 **rhaissamarques/rhaissamarques** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
