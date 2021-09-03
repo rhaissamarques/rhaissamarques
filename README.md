@@ -23,6 +23,4 @@
   
   ##
   
-  <div>
-    ![Snake animation](https://github.com/rhaissamarques/rhaissamarques/blob/output/github-contribution-grid-snake.svg)
-  </div>
+![Snake animation](https://github.com/rhaissamarques/rhaissamarques/blob/output/github-contribution-grid-snake.svg)
