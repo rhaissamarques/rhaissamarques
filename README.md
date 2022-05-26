@@ -1,6 +1,5 @@
 ### Hi there, my name is Rhaissa Marques👋
 
-- 🔭 I’m currently studying at NewTab Academy to became a Front-End developer
 - 🌱 I’m currently learning JavaScript and React.JS
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I love puzzles, I have 5 cats and 3 geese...
