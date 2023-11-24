@@ -1,7 +1,8 @@
 ### Hi there, my name is Rhaissa Marques👋
-
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: I love puzzles, I have 5 cats and 3 geese...
+- I'm organizing my github, so don't be overwhelmed by the mess, it will be better soon.
+- I am currently working as a Data Analyst.
+- Improving in Python to grow professionally.
+- Trying to do more personal projects to keep my github more active.
 
 <div>
   <a href="https://github.com/rhaissamarques">
